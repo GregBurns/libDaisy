@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['init',['init',['../structdsy__sai__handle.html#a711a8646bb1249419f7474c1bbc93da2',1,'dsy_sai_handle']]]
+  ['impl_5f_1220',['impl_',['../group__external.html#ga40f66abb6093e8358937fdcf184eda5d',1,'daisy::Logger']]]
 ];

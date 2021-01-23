@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['peripheral',['Peripheral',['../structdaisy_1_1_i2_c_handle_1_1_config.html#ad59ff761df0f73062c2e5602fb67e9d3',1,'daisy::I2CHandle::Config']]],
-  ['pins',['Pins',['../class_shift_register595.html#a2e0140c5d6cac8821d558b2683f7a134',1,'ShiftRegister595::Pins()'],['../classdaisy_1_1_oled_display.html#ac1e198fa97a58fbe1ff24a06c621c2cf',1,'daisy::OledDisplay::Pins()']]],
-  ['polarity',['Polarity',['../classdaisy_1_1_switch.html#aef37136dd1b4cd077ef82a0f62bcfa3d',1,'daisy::Switch']]],
-  ['presetcolor',['PresetColor',['../classdaisy_1_1_color.html#af93d31d5fc63705c228bf9da407c9a40',1,'daisy::Color']]],
-  ['pull',['Pull',['../classdaisy_1_1_switch.html#aa6c26cb923638a248a1d8d3cb1755e51',1,'daisy::Switch']]]
+  ['midiinputmode_1299',['MidiInputMode',['../classdaisy_1_1_midi_handler.html#acc2df91e9c18571da6edecaec4fbc7fe',1,'daisy::MidiHandler']]],
+  ['midimessagetype_1300',['MidiMessageType',['../group__external.html#gaaf09bb687034c8776ca0c68ed3ed4179',1,'daisy']]],
+  ['midioutputmode_1301',['MidiOutputMode',['../classdaisy_1_1_midi_handler.html#a2bb8e841f287ba5fecfa2cead766a40c',1,'daisy::MidiHandler']]],
+  ['muxpin_1302',['MuxPin',['../structdaisy_1_1_adc_channel_config.html#af601e66da7eb60721792861fc91f2c83',1,'daisy::AdcChannelConfig']]]
 ];
